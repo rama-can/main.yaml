@@ -1,1 +1,1 @@
-# Rama-Can
+## github actions configuration
